@@ -1,7 +1,7 @@
 ############################################  PROJECT DATA QUALITY ###############################################
 ############################################    PY/SQL  ###############################################
 #################################### https://github.com/JapaDash #########################################
-###### Author: Ivan Raphael Albarello
+###### Author: JapaDash
 
 
 {
@@ -17,7 +17,7 @@
    "cell_type": "markdown",
    "metadata": {},
    "source": [
-    "Author: Ivan Raphael Albarello<br/>\n",
+    "Author: JapaDash<br/>\n",
     "Last Update: 2020/02/14"
    ]
   },
